@@ -1,0 +1,4 @@
+/time set midnight
+/enhancedcelestials setLunarEvent #enhancedcelestials:blood_moon
+/enhancedcelestials setLunarEvent enhancedcelestials:blue_moon
+/enhancedcelestials setLunarEvent enhancedcelestials:super_moon

@@ -1,0 +1,1 @@
+{"jarName":"aileron-1.21.1-neoforge-1.1.4.jar","modId":"aileron","version":"1.21.1-neoforge-1.1.4","mixinConfigs":["aileron-common.mixins.json","aileron-neoforge.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.6.9+1.21-neoforge.jar","modId":"midnightlib","version":"1.6.9","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

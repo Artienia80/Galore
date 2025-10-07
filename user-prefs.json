@@ -1,0 +1,319 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\abundant_atmosphere-1.21.1-2.0.0-beta-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\aether-1.21.1-1.5.10-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\aileron-1.21.1-neoforge-1.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alltheleaks-1.0.4+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alternate_current-mc1.21-1.9.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\amendments-1.21-2.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Amplified_Nether_1.21.x_v1.2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\backported_animal_variants-0.2-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\biolith-neoforge-3.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\blueprint-1.21.1-8.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\boatload-1.21.1-6.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\c2me-neoforge-mc1.21.1-0.3.0+alpha.0.79.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\clayworks-1.21.1-4.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cloth-config-15.0.140-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\connectivity-1.21.1-7.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CrashAssistant-neoforge-1.20.6-1.21.4-1.10.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cupboard-1.21-2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Data_Anchor-neoforge-1.21.1-2.0.0.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\deep_aether-1.21.1-1.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\distraction_free_recipes-neoforge-1.2.1-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Ecliptic-Seasons-MultiMod-Patch-1.21.1-neoforge-0.19.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EclipticSeasons-1.21.1-neoforge-0.12.0-z-2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EclipticSeasonsNML-1.21.1-neoforge-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi-1.1.22+1.21.1+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi_enchanting-0.1.2+1.21+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi_loot-0.7.6+1.21+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\enderscape-neoforge-1.0.9+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Enhanced-Celestials-NeoForge-1.21.1-6.0.2.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\everycomp-1.21-2.11.5-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\exposure-neoforge-1.21.1-1.9.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\exposure_expanded-neoforge-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\exposure_polaroid-neoforge-1.21.1-1.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fallingleaves-1.21.1-2.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancytoasts-neoforge-1.21.1-1.4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FastWorkbench-1.21.1-9.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ferritecore-7.0.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fireflybushport-3.0.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fzzy_config-0.7.2+1.21+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ImmediatelyFast-NeoForge-1.6.7+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.21.1-neoforge-19.25.0.321.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kotlinforforge-5.10.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lithium-neoforge-0.15.0+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\map_atlases-1.21-6.3.6-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-neoforge-5.24.3+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moonlight-1.21-2.23.11-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\nomansland-1.4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oreganized 1.21.1-5.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\particlerain-4.0.0-beta.1+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Placebo-1.21.1-9.9.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\platform-neoforge-1.21.1-1.2.10.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefullib-neoforge-1.21-3.0.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rubinated_nether-2.1.0.C.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sawmill-1.21-1.7.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\spark-1.10.124-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Stellar View-1.21.1-0.5.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\structureessentials-1.21.1-4.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supplementaries-1.21-3.4.16-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toofast-0.7.5.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\trimmed-neo-1.21-3.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\txnilib-neoforge-1.0.24-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\upgrade_aquatic-1.21.1-7.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\vanillabackport-neoforge-1.21.1-1.1.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\variantsandventures-neoforge-1.0.18+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\woodworks-1.21.1-4.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "user-prefs.json",
+        "isSelected": false
+      }
+    ],
+    "enableRecommendedRam": false
+  }
+}

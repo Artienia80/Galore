@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-06 20:19:09 +0300"
+    },
+    "done": true
+  },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2025-10-06 20:19:43 +0300"
+    },
+    "done": true
+  },
+  "eclipticseasons:main/quest": {
+    "criteria": {
+      "tick": "2025-10-06 20:19:09 +0300"
+    },
+    "done": true
+  },
+  "eclipticseasons:main/base": {
+    "criteria": {
+      "tick": "2025-10-06 20:19:09 +0300"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2025-10-06 20:19:43 +0300",
+      "has_slabs": "2025-10-06 20:19:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-10-06 20:19:10 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
